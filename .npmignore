@@ -1,6 +1,9 @@
 # Coverage
 coverage/
 
+# Tests
+tests/
+
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -16,3 +19,9 @@ jspm_packages/
 
 # dotenv environment variables file
 .env
+
+# Husky
+.husky
+
+# ESLint
+.eslintrc.json
