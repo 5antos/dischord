@@ -1,0 +1,22 @@
+{
+  "name": "dischord",
+  "version": "1.0.0-dev",
+  "description": "A revolutionary Node.js library for interacting with the Discord API",
+  "main": "./src/index.js",
+  "types": "./typings/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5antos/dischord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/5antos/dischord/issues"
+  },
+  "author": "5antos <___@___.___>",
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "discord",
+    "discordapp",
+    "library"
+  ]
+}
