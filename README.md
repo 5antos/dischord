@@ -1,6 +1,6 @@
 ## About
 
-Dischord aims to provide a simple, yet powerful and revolutionary [Node.js](https://nodejs.org) library for interacting with the [Discord API](https://discord.com/developers/docs/intro).
+Dischord aims to provide a simple, yet powerful and revolutionary [Node.js](https://nodejs.org) library to interact with the [Discord API](https://discord.com/developers/docs/intro).
 
 _⚠️This project is currently in development and there is no ETA for a release._
 
